@@ -1,0 +1,21 @@
+{
+  "name": "@lenqwang/extract-all-helpers-linux-x64-gnu",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "extract-all-helpers.linux-x64-gnu.node",
+  "files": [
+    "extract-all-helpers.linux-x64-gnu.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "libc": [
+    "glibc"
+  ]
+}
