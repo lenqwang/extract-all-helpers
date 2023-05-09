@@ -5,7 +5,15 @@
   "types": "index.d.ts",
   "napi": {
     "name": "extract-all-helpers",
-    "triples": {}
+    "triples": {
+      "default": true,
+      "additional": [
+        "x86_64-apple-darwin",
+        "aarch64-apple-darwin",
+        "x86_64-pc-windows-msvc",
+        "x86_64-unknown-linux-gnu"
+      ]
+    }
   },
   "license": "MIT",
   "devDependencies": {
