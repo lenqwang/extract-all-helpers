@@ -1,6 +1,6 @@
 {
   "name": "@lenqwang/extract-all-helpers-darwin-arm64",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "os": [
     "darwin"
   ],
